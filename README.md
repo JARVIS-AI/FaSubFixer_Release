@@ -31,6 +31,20 @@ It’s designed for speed, simplicity, and accuracy — so you can spend less ti
 
 ---
 
+## 📸 Screenshots
+
+Here’s what **FaSubFixer** looks like in action:
+
+![FaSubFixer Main Window](SC/1.png)
+
+![FaSubFixer Fixed Subtitle Preview](SC/2.png)
+
+![FaSubFixer Fixed Subtitle About](SC/3.png)
+
+![FaSubFixer Fixed Subtitle Donate](SC/4.png)
+
+---
+
 ## 💖 Support & Donations
 
 If you find FaSubFixer useful and want to support its development, you can donate via:
@@ -44,6 +58,29 @@ If you find FaSubFixer useful and want to support its development, you can donat
 | **TON** | `UQCqJnYUFNxrD6XPFK1L1J1GgJazq5C51XYO-hazYCkO8962` |
 | **ETH** | `0xbd72800f108f33615cf79d74fac36f91c50d9a8c` |
 | **BTC** | `bc1q6yu3604c0asrtag3n2hustxf7w5t6vt3mlshjr` |
+
+---
+
+## 🛠️ Development
+
+### Requirements
+- macOS 13+
+- Xcode 15+
+- Swift 5.9+
+
+### Build
+```bash
+git clone https://github.com/YOUR_USERNAME/FaSubFixer.git
+cd FaSubFixer
+open FaSubFixer.xcodeproj
+```
+Then build & run from Xcode.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
