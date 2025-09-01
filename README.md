@@ -47,29 +47,6 @@ If you find FaSubFixer useful and want to support its development, you can donat
 
 ---
 
-## 🛠️ Development
-
-### Requirements
-- macOS 13+
-- Xcode 15+
-- Swift 5.9+
-
-### Build
-```bash
-git clone https://github.com/YOUR_USERNAME/FaSubFixer.git
-cd FaSubFixer
-open FaSubFixer.xcodeproj
-```
-Then build & run from Xcode.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 **Jarvis**  
